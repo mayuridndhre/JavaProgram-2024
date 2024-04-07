@@ -1,0 +1,18 @@
+class Addition
+{
+	int a,b,c;
+}
+class Add
+{
+	a=10;
+	b=20;
+	c=a+b;
+}
+class AdditionNew
+{
+public static void main(String[])
+{
+	Addition ob=new Addition();
+	ob.Add();
+}
+}
